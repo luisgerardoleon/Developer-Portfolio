@@ -25,4 +25,4 @@ Passionate junior developer focused on backend and full stack development. I enj
 
 ## Contact
 * **Email:** [luisgerardoleonsilva42@gmail.com](mailto:luisgerardoleonsilva42@gmail.com)
-* **LinkedIn:** [linkedin.com/in/luisgerardoleonsilva](https://www.linkedin.com/in/luisgerardoleonsilva/)
+* **LinkedIn:** [linkedin.com/in/luisgerardoleonsilva](https://www.linkedin.com/in/luisgerardoleonsilva/) 
